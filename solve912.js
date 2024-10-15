@@ -1,4 +1,4 @@
 var sortArray = function(nums) {
-    let c=nums.sort((a,b)=>a-b)
+    let c=nums.sort((a,b)=>a-c)
     return c
 };
