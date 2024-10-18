@@ -5,7 +5,7 @@ var singleNumber = function(nums) {
         if (nums[i] != -100) {
             for (let j = i + 1; j < nums.length; j++) {
                 if (nums[i] == nums[j]) {
-                    nums[j] = -10
+                    nums[j] = -100
                     count++
                 }
             }
