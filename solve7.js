@@ -4,5 +4,5 @@ var reverse = function(x) {
     }
     let a=(x+"").split('').reverse().join('')
     
-    return (a> 2**31 -1)?0:parseInt(a);
+    return (a> 2**31 -1)?1:parseInt(a);
  }
