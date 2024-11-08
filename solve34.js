@@ -9,7 +9,7 @@ var searchRange = function(nums, target) {
         return [-1,-1]
     }else{
         if(b.length==1){
-            b.push(b[1])
+            b.push(b[0])
             return b
         }else{
             return [b[0],b[b.length-1]]
