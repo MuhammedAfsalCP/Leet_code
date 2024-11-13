@@ -11,6 +11,6 @@ var moveZeroes = function(nums) {
         }
     }
     nums.length=0
-    nums.push(...a)
+    nums.push(...d)
     console.log(nums)
 };
