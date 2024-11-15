@@ -3,7 +3,7 @@ var findDuplicates = function(nums) {
     let b=[]
    for(let i=0;i<nums.length;i++){
     if(a.has(nums[i])){
-        b.push(nums[i])
+        b.push(nums[j])
     }else{
         a.add(nums[i])
     }
