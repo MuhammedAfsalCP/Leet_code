@@ -5,7 +5,7 @@ var minCostToMoveChips = function(position) {
         if(position[i]%2==0){
             a++
         }else{
-            b++
+            c++
         }
     }
     return Math.min(a,b)
