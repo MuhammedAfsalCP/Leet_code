@@ -4,7 +4,7 @@ var singleNumber = function (nums) {
         if (nums[i] != -1) {
             for (let j = i + 1; j < nums.length; j++) {
                 if (nums[i] == nums[j]) {
-                    nums[j] = -2
+                    nums[j] = -1
                     count++
                 }
             }
