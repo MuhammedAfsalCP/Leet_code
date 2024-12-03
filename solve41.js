@@ -9,7 +9,7 @@ var firstMissingPositive = function(nums) {
   }for(let i=0;i<=b.length;i++){
   if(b[i]+1 != b[i+1]){
      return b[i]+1
-    break;
+   
   }
  }
  return -1
