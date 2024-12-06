@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
