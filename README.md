@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
 ## Bit Manipulation
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
