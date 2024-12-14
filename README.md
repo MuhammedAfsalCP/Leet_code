@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
