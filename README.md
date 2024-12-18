@@ -49,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
