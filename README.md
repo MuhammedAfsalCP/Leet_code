@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0043-multiply-strings) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
 | [1899-count-items-matching-a-rule](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1899-count-items-matching-a-rule) |
+| [2365-percentage-of-letter-in-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2365-percentage-of-letter-in-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3412-permutation-difference-between-two-strings) |
 ## Trie
 |  |
