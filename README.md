@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [1241-decompress-run-length-encoded-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1241-decompress-run-length-encoded-list) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1899-count-items-matching-a-rule](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1899-count-items-matching-a-rule) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0043-multiply-strings) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1899-count-items-matching-a-rule](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1899-count-items-matching-a-rule) |
 | [2365-percentage-of-letter-in-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2365-percentage-of-letter-in-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3412-permutation-difference-between-two-strings) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Database
 |  |
 | ------- |
