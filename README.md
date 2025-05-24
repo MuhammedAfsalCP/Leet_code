@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1899-count-items-matching-a-rule](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1899-count-items-matching-a-rule) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
+| [3194-find-words-containing-character](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1899-count-items-matching-a-rule](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1899-count-items-matching-a-rule) |
 | [2365-percentage-of-letter-in-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2365-percentage-of-letter-in-string) |
+| [3194-find-words-containing-character](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3412-permutation-difference-between-two-strings) |
 ## Trie
