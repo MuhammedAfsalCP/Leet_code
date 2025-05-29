@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
 | ------- |
