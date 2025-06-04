@@ -105,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0975-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
