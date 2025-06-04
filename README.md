@@ -121,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0975-range-sum-of-bst) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
