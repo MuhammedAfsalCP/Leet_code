@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Tree
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
