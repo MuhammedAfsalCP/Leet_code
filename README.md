@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0908-middle-of-the-linked-list) |
@@ -141,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
