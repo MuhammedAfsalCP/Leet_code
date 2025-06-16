@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1899-count-items-matching-a-rule](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1899-count-items-matching-a-rule) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
 | [3194-find-words-containing-character](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3194-find-words-containing-character) |
 ## Hash Table
