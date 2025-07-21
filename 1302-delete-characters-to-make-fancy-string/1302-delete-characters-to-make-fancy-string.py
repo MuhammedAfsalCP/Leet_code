@@ -1,6 +1,6 @@
 class Solution(object):
     def makeFancyString(self, s):
-        result = [s[0]]  
+        result = s[0]  
         count = 1
 
         for i in range(1, len(s)):
@@ -10,7 +10,7 @@ class Solution(object):
                 count = 1  
 
             if count < 3:
-                result.append(s[i])
-        return "".join(result)
+                result+=s[i]
+        return result
 
             
