@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0043-multiply-strings) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0434-number-of-segments-in-a-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1899-count-items-matching-a-rule](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1899-count-items-matching-a-rule) |
 | [2365-percentage-of-letter-in-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2365-percentage-of-letter-in-string) |
