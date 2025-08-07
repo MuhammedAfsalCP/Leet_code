@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0434-number-of-segments-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
