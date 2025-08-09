@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0434-number-of-segments-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -212,4 +214,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
