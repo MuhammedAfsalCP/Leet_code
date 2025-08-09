@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
