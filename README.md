@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0283-move-zeroes) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0344-reverse-string) |
