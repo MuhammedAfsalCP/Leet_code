@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0792-binary-search) |
 | [1241-decompress-run-length-encoded-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0682-baseball-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
