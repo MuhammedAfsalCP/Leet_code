@@ -2,7 +2,6 @@ from functools import reduce
 class Solution(object):
     def calPoints(self, operations):
         arr=[]
-        sum1=0
         for x in range(len(operations)):
             if operations[x].lstrip('-').isdigit():
                 # print(operations[x])
@@ -16,8 +15,6 @@ class Solution(object):
             elif operations[x]=="+":
                 # print(sum(arr))
                 arr.append(arr[-2]+arr[-1])
-                sum1=sum(arr)
-            
         return sum(arr)
             
             
