@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0792-binary-search) |
 | [1241-decompress-run-length-encoded-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0496-next-greater-element-i) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3412-permutation-difference-between-two-strings) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
