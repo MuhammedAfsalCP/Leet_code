@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0792-binary-search) |
 | [1241-decompress-run-length-encoded-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1899-count-items-matching-a-rule](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1899-count-items-matching-a-rule) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0441-arranging-coins) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0503-next-greater-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
