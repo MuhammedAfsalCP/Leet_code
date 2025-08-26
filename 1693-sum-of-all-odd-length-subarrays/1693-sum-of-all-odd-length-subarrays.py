@@ -4,15 +4,9 @@ class Solution(object):
         count=1
         sum1=0
         while(count<=l):
-            if count==1 or count==l:
-                sum1+=sum(arr)
-            else:
-                
-            
-                for x in range(0,l - count + 1):
-                    arr2=arr[x:count+x]
-                    sum1+=sum(arr2)
-                    print(arr2)
+            for x in range(0,l - count + 1):
+                arr2=arr[x:count+x]
+                sum1+=sum(arr2)
                 
             count+=2
         return sum1
