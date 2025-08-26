@@ -1,13 +1,14 @@
-class Solution(object):
-    def sumOddLengthSubarrays(self, arr):
-        l=len(arr)
-        count=1
-        sum1=0
-        while(count<=l):
-            for x in range(0,l - count + 1):
-                arr2=arr[x:count+x]
-                sum1+=sum(arr2)
-                
-            count+=2
-        return sum1
+class Solution:
+    def sumOddLengthSubarrays(self, arr: List[int]) -> int:
+        n = len(arr)
+        answer = 0
         
+        for left in range(n):
+            for right in range(left, n):
+                if (right - left + 1) % 2 == 1:
+                    current_sum = 0
+                    for index in range(left, right + 1):
+                        current_sum += arr[index]
+                    answer += current_sum
+
+        return answer
