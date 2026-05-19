@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1899-count-items-matching-a-rule) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
+| [2540-minimum-common-value](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2540-minimum-common-value) |
 | [3194-find-words-containing-character](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0496-next-greater-element-i) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
+| [2540-minimum-common-value](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2540-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0792-binary-search) |
+| [2540-minimum-common-value](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
 | ------- |
