@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
 | [2540-minimum-common-value](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3194-find-words-containing-character](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
 | [2540-minimum-common-value](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
