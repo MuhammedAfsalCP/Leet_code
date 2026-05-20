@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1899-count-items-matching-a-rule](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1899-count-items-matching-a-rule) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2159-two-out-of-three](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2159-two-out-of-three) |
 | [2540-minimum-common-value](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0414-third-maximum-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Database
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MuhammedAfsalCP/Leet_code/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Queue
 |  |
